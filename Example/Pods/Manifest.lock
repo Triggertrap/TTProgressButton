@@ -1,0 +1,14 @@
+PODS:
+  - TTProgressButton (1.0.0)
+
+DEPENDENCIES:
+  - TTProgressButton (from `../`)
+
+EXTERNAL SOURCES:
+  TTProgressButton:
+    :path: ../
+
+SPEC CHECKSUMS:
+  TTProgressButton: d1310357fa4768c6beca454b88cac385326875f1
+
+COCOAPODS: 0.36.4
