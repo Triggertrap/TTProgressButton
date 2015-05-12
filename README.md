@@ -5,6 +5,10 @@ A custom circular UIButton which has a progress border indicator. It is designed
 [![Version](https://img.shields.io/cocoapods/v/TTProgressButton.svg?style=flat)](http://cocoapods.org/pods/TTProgressButton)
 [![License](https://img.shields.io/cocoapods/l/TTProgressButton.svg?style=flat)](http://cocoapods.org/pods/TTProgressButton)
 [![Platform](https://img.shields.io/cocoapods/p/TTProgressButton.svg?style=flat)](http://cocoapods.org/pods/TTProgressButton)
+  
+Example Style 1                                                                            |  Example Style 2
+:-----------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------:
+![](https://github.com/TriggerTrap/TTProgressButton/blob/master/tweet_button_style_1.gif)  |  ![](https://github.com/TriggerTrap/TTProgressButton/blob/master/tweet_button_style_2.gif)
 
 
 Setup
